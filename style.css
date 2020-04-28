@@ -1,3 +1,6 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
 body {
     margin-left: 5%;
     margin-right: 5%;
@@ -6,6 +9,9 @@ hr {
     border: 2px solid black;
     width: 50%;
     margin: auto;
+}
+strong {
+    font-weight: bolder;
 }
 
 /* titre principal de la page */
